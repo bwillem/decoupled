@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-05-29 00:50:26
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.22
+WORDPRESS:	4.2.2
+PHP INFO:	5.5.10 | SAPI: apache2handler
+SERVER:		Apache/2.2.26 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.6 PHP/5.5.10 mod_ssl/2.2.26 OpenSSL/0.9.8zd DAV/2 mod_perl/2.0.8 Perl/v5.18.2 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 21MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:12 | filtered:0 | create:12 
+FILTERED: [] 
+SQL CREATED: 20150529_suzywilsonart_5567b7b6487843334150529004958_database.sql 
+SQL FILE SIZE: 380.77KB 
+SQL FILE TIME: 2015-05-29 00:50:26 
+SQL RUNTIME: 0.05 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/b-babybry/Web/MAMP Server/suzy-wilson/wordpress 
+ARCHIVE FILE: 20150529_suzywilsonart_5567b7b6487843334150529004958_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	86MB 
+STATS:	Dirs 168 | Files 1,499 | Links 0 
+SQL ADDED: 20150529_suzywilsonart_5567b7b6487843334150529004958_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1667
+    [filename] => /Users/b-babybry/Web/MAMP Server/suzy-wilson/wordpress/wp-snapshots/tmp/20150529_suzywilsonart_5567b7b6487843334150529004958_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 66.36MB 
+ARCHIVE RUNTIME: 11.85 sec. 
+MEMORY STACK: 21.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/b-babybry/Web/MAMP Server/suzy-wilson/wordpress/wp-snapshots/tmp/20150529_suzywilsonart_5567b7b6487843334150529004958_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 380.77KB 
+Installer File: 318.01KB 
+Archive File: 66.36MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 13.60 sec.
+PEAK PHP MEMORY USED: 24.25MB
+DONE PROCESSING => 20150529_suzywilsonart 2015-05-29 00:50:40
+ 

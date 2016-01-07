@@ -1,0 +1,87 @@
+/*
+Theme Name: Suzy Wilson Bootstrap
+Author: Bryan Guenther, Semaphore Creative
+Author URI: semaphorecreative.com
+Version: 1.0;
+Description: a custom Wordpress theme using the Bootstrap framework for Suzy Wilson's site
+*/
+html *{
+	font-family:'Montserrat';
+}
+/*--crispy fonts--*/ 
+html, html a { 
+	-webkit-font-smoothing: antialiased !important; 
+	font-smoothing: antialiased !important; 
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004); 
+}
+.background-main {
+	background-image: url("css/suzy_bg-v2.jpg");
+	background-size: cover;
+	z-index:9;
+}
+.img-responsive{
+	margin-left:auto;
+	margin-right:auto;
+}
+.masthead-nav > .current-menu-item > a,
+.masthead-nav > .current-menu-item > a:hover,
+.masthead-nav > .current-menu-item > a:focus {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+.modal-header .close {
+	margin-top:-12px !important;
+}
+.modal-body {
+	padding:5px !important;
+}
+.portfolio-thumbs{
+	position:relative;
+	margin-top:12%;
+}
+.thumbnail{
+	border:none !important;
+	background-color:rgba(1,1,1,0);
+}
+.butt{
+	color:#fff;
+	background-color:rgba(0,0,0,0);
+	border:3px solid #fff;
+	border-radius:2px;
+	text-transform:uppercase;
+	-webkit-transition:all .2s;
+	transition:all .2s;
+}
+.butt:hover{
+	color:#fff;
+	background-color:rgba(256,256,256,.2);
+	-webkit-transition:all .2s;
+	transition:all .2s;
+}
+.item-description{
+	bottom:40px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:centers;
+}
+.center-envelope{
+	padding-top:3px;
+}
+/*ul.nav a:hover{
+	background:none;
+	border-bottom:2px solid #fff;
+
+}*/
+/*fixes menu positioning in full-res version of site*/
+/*.masthead {
+	width:100%;
+}
+.inner .nav {
+	width:100%;
+}*/
+
+#content{
+	margin-top:64px;
+	transform: translateY(-100%);
+	transition:.2s all;
+}
